@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="ZWo-84-3eN">
+    <device id="retina5_5" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Index-->
+        <scene sceneID="YOU-dE-7Pp">
+            <objects>
+                <viewControllerPlaceholder storyboardIdentifier="Index" storyboardName="Index" id="vSP-EL-9ZG" sceneMemberID="viewController">
+                    <tabBarItem key="tabBarItem" title="首页" image="user.png" id="es4-vI-JLZ"/>
+                    <navigationItem key="navigationItem" id="IFf-cn-1rf"/>
+                </viewControllerPlaceholder>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="YqW-6Z-bdj" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-546" y="70"/>
+        </scene>
+        <!--Resources-->
+        <scene sceneID="M4j-wH-0r0">
+            <objects>
+                <viewControllerPlaceholder storyboardName="Resources" id="DUZ-j6-XzC" sceneMemberID="viewController">
+                    <tabBarItem key="tabBarItem" title="资源" id="HZt-cA-g5b">
+                        <color key="badgeColor" red="0.19215686269999999" green="0.4941176471" blue="0.90588235289999997" alpha="1" colorSpace="calibratedRGB"/>
+                    </tabBarItem>
+                    <navigationItem key="navigationItem" id="VCE-4F-hXm"/>
+                </viewControllerPlaceholder>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="jWF-ag-z6l" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-522" y="173"/>
+        </scene>
+        <!--My-->
+        <scene sceneID="HkU-Ek-ebL">
+            <objects>
+                <viewControllerPlaceholder storyboardName="My" id="TLn-QX-KhD" sceneMemberID="viewController">
+                    <tabBarItem key="tabBarItem" title="我的" badgeValue="我的" id="1en-h6-kw9"/>
+                    <navigationItem key="navigationItem" id="L4n-V9-pcf"/>
+                </viewControllerPlaceholder>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="ivn-MH-Ay9" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-558" y="239"/>
+        </scene>
+        <!--Tabbar View Controller-->
+        <scene sceneID="96y-9s-XWd">
+            <objects>
+                <tabBarController storyboardIdentifier="TabbarViewController" useStoryboardIdentifierAsRestorationIdentifier="YES" id="ZWo-84-3eN" customClass="TabbarViewController" sceneMemberID="viewController">
+                    <navigationItem key="navigationItem" id="fNf-x3-YIh"/>
+                    <tabBar key="tabBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="Xad-RV-b0N">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="49"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <color key="tintColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    </tabBar>
+                    <connections>
+                        <segue destination="vSP-EL-9ZG" kind="relationship" relationship="viewControllers" id="79y-Wh-fVi"/>
+                        <segue destination="DUZ-j6-XzC" kind="relationship" relationship="viewControllers" id="WDL-6M-VD3"/>
+                        <segue destination="TLn-QX-KhD" kind="relationship" relationship="viewControllers" id="JO8-MV-kYM"/>
+                    </connections>
+                </tabBarController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="2er-Xp-vmk" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-1220" y="71"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="user.png" width="50" height="50"/>
+    </resources>
+</document>
