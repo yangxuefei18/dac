@@ -77,6 +77,11 @@
         cell.backgroundColor = [UIColor redColor];
         return cell;
     }
+    ///
+    //测试一下
+    //
+    //
+    //
 //    if(indexPath.row == 1 || indexPath.row == 2|| indexPath.row == 3){
 //        CoffeeTableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:@"CoffeeTableViewCell"];
 //        // 100 0 50
