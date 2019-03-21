@@ -123,21 +123,6 @@
 		B23245A6222774700063F821 /* CoffeeTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B23245A5222774700063F821 /* CoffeeTableViewCell.m */; };
 		B23245AA2227E2D20063F821 /* IndexCoffeeTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B23245A82227E2D20063F821 /* IndexCoffeeTableViewCell.m */; };
 		B23245AB2227E2D20063F821 /* IndexCoffeeTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = B23245A92227E2D20063F821 /* IndexCoffeeTableViewCell.xib */; };
-		B24A1D02223B500B00C3D8FD /* AttandanceListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B24A1CEB223B500B00C3D8FD /* AttandanceListViewController.m */; };
-		B24A1D03223B500B00C3D8FD /* StaffTimeListTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = B24A1CEE223B500B00C3D8FD /* StaffTimeListTableViewCell.xib */; };
-		B24A1D04223B500B00C3D8FD /* AttanceListTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = B24A1CF0223B500B00C3D8FD /* AttanceListTableViewCell.xib */; };
-		B24A1D05223B500B00C3D8FD /* ManageList1TableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = B24A1CF1223B500B00C3D8FD /* ManageList1TableViewCell.xib */; };
-		B24A1D06223B500B00C3D8FD /* ManageList1TableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B24A1CF2223B500B00C3D8FD /* ManageList1TableViewCell.m */; };
-		B24A1D07223B500B00C3D8FD /* StaffListTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B24A1CF4223B500B00C3D8FD /* StaffListTableViewCell.m */; };
-		B24A1D08223B500B00C3D8FD /* StaffTimeListTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B24A1CF5223B500B00C3D8FD /* StaffTimeListTableViewCell.m */; };
-		B24A1D09223B500B00C3D8FD /* PersonalInfoTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B24A1CF6223B500B00C3D8FD /* PersonalInfoTableViewCell.m */; };
-		B24A1D0A223B500B00C3D8FD /* PersonalInfoTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = B24A1CF7223B500B00C3D8FD /* PersonalInfoTableViewCell.xib */; };
-		B24A1D0B223B500B00C3D8FD /* StaffListTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = B24A1CF9223B500B00C3D8FD /* StaffListTableViewCell.xib */; };
-		B24A1D0C223B500B00C3D8FD /* AttanceListTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B24A1CFB223B500B00C3D8FD /* AttanceListTableViewCell.m */; };
-		B24A1D0D223B500B00C3D8FD /* AttendanceRecordViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B24A1CFD223B500B00C3D8FD /* AttendanceRecordViewController.m */; };
-		B24A1D0E223B500B00C3D8FD /* ManageIndexViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B24A1CFE223B500B00C3D8FD /* ManageIndexViewController.m */; };
-		B24A1D0F223B500B00C3D8FD /* AttandanceDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B24A1CFF223B500B00C3D8FD /* AttandanceDetailViewController.m */; };
-		B24A1D10223B500B00C3D8FD /* PersonalViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B24A1D00223B500B00C3D8FD /* PersonalViewController.m */; };
 		B24A1D13223B502B00C3D8FD /* MeetTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B24A1D12223B502A00C3D8FD /* MeetTableViewCell.m */; };
 		B24A1DC8223B5E7D00C3D8FD /* UIScrollView+MJRefresh.m in Sources */ = {isa = PBXBuildFile; fileRef = B24A1D6C223B5E7C00C3D8FD /* UIScrollView+MJRefresh.m */; };
 		B24A1DC9223B5E7D00C3D8FD /* MJRefreshConst.m in Sources */ = {isa = PBXBuildFile; fileRef = B24A1D6D223B5E7C00C3D8FD /* MJRefreshConst.m */; };
@@ -174,7 +159,6 @@
 		B24A1DFE223BB0F300C3D8FD /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B24A1DFD223BB0F300C3D8FD /* AdSupport.framework */; };
 		B24A1E00223BB0FE00C3D8FD /* UserNotifications.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B24A1DFF223BB0FE00C3D8FD /* UserNotifications.framework */; };
 		B24A1E02223BB10800C3D8FD /* libresolv.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = B24A1E01223BB10800C3D8FD /* libresolv.tbd */; };
-		B25241C92232090B001B7126 /* My.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B25241C82232090B001B7126 /* My.storyboard */; };
 		B26C6D132213B30F00287046 /* VisitTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B26C6D122213B30F00287046 /* VisitTableViewCell.m */; };
 		B26C6D162213BEDB00287046 /* NoRecordTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B26C6D152213BEDB00287046 /* NoRecordTableViewCell.m */; };
 		B26C6D192213BF0C00287046 /* ScheduledMeetingTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B26C6D182213BF0C00287046 /* ScheduledMeetingTableViewCell.m */; };
@@ -239,6 +223,22 @@
 		B2CD8DED222FB10300630B7F /* LoginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B2CD8DE8222FB10300630B7F /* LoginViewController.m */; };
 		B2CD8DEE222FB10300630B7F /* LoginNaviViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B2CD8DE9222FB10300630B7F /* LoginNaviViewController.m */; };
 		B2CD8DF0222FB21D00630B7F /* Login.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B2CD8DEF222FB21C00630B7F /* Login.storyboard */; };
+		B2DC9438224327AE008925B8 /* My.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B2DC9437224327AD008925B8 /* My.storyboard */; };
+		B2DC9454224329F1008925B8 /* AttandanceListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B2DC943D224329F0008925B8 /* AttandanceListViewController.m */; };
+		B2DC9455224329F1008925B8 /* StaffTimeListTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = B2DC9440224329F0008925B8 /* StaffTimeListTableViewCell.xib */; };
+		B2DC9456224329F1008925B8 /* AttanceListTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = B2DC9442224329F0008925B8 /* AttanceListTableViewCell.xib */; };
+		B2DC9457224329F1008925B8 /* ManageList1TableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = B2DC9443224329F0008925B8 /* ManageList1TableViewCell.xib */; };
+		B2DC9458224329F1008925B8 /* ManageList1TableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B2DC9444224329F0008925B8 /* ManageList1TableViewCell.m */; };
+		B2DC9459224329F1008925B8 /* StaffListTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B2DC9446224329F0008925B8 /* StaffListTableViewCell.m */; };
+		B2DC945A224329F1008925B8 /* StaffTimeListTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B2DC9447224329F0008925B8 /* StaffTimeListTableViewCell.m */; };
+		B2DC945B224329F1008925B8 /* PersonalInfoTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B2DC9448224329F0008925B8 /* PersonalInfoTableViewCell.m */; };
+		B2DC945C224329F1008925B8 /* PersonalInfoTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = B2DC9449224329F0008925B8 /* PersonalInfoTableViewCell.xib */; };
+		B2DC945D224329F1008925B8 /* StaffListTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = B2DC944B224329F0008925B8 /* StaffListTableViewCell.xib */; };
+		B2DC945E224329F1008925B8 /* AttanceListTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B2DC944D224329F0008925B8 /* AttanceListTableViewCell.m */; };
+		B2DC945F224329F1008925B8 /* AttendanceRecordViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B2DC944F224329F0008925B8 /* AttendanceRecordViewController.m */; };
+		B2DC9460224329F1008925B8 /* ManageIndexViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B2DC9450224329F0008925B8 /* ManageIndexViewController.m */; };
+		B2DC9461224329F1008925B8 /* AttandanceDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B2DC9451224329F0008925B8 /* AttandanceDetailViewController.m */; };
+		B2DC9462224329F1008925B8 /* PersonalViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B2DC9452224329F0008925B8 /* PersonalViewController.m */; };
 		B2E196DA2230BBB3008950A6 /* AddStaffView.m in Sources */ = {isa = PBXBuildFile; fileRef = B2E196D52230BBB3008950A6 /* AddStaffView.m */; };
 		B2E196DB2230BBB3008950A6 /* AddStaffView.xib in Resources */ = {isa = PBXBuildFile; fileRef = B2E196D62230BBB3008950A6 /* AddStaffView.xib */; };
 		B2E196DC2230BBB3008950A6 /* AttenceView.xib in Resources */ = {isa = PBXBuildFile; fileRef = B2E196D72230BBB3008950A6 /* AttenceView.xib */; };
@@ -526,31 +526,6 @@
 		B23245A72227E2D20063F821 /* IndexCoffeeTableViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IndexCoffeeTableViewCell.h; sourceTree = "<group>"; };
 		B23245A82227E2D20063F821 /* IndexCoffeeTableViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = IndexCoffeeTableViewCell.m; sourceTree = "<group>"; };
 		B23245A92227E2D20063F821 /* IndexCoffeeTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = IndexCoffeeTableViewCell.xib; sourceTree = "<group>"; };
-		B24A1CE8223B500B00C3D8FD /* AttendanceRecordViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AttendanceRecordViewController.h; sourceTree = "<group>"; };
-		B24A1CE9223B500B00C3D8FD /* AttandanceDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AttandanceDetailViewController.h; sourceTree = "<group>"; };
-		B24A1CEA223B500B00C3D8FD /* ManageIndexViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ManageIndexViewController.h; sourceTree = "<group>"; };
-		B24A1CEB223B500B00C3D8FD /* AttandanceListViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AttandanceListViewController.m; sourceTree = "<group>"; };
-		B24A1CEC223B500B00C3D8FD /* PersonalViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PersonalViewController.h; sourceTree = "<group>"; };
-		B24A1CEE223B500B00C3D8FD /* StaffTimeListTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = StaffTimeListTableViewCell.xib; sourceTree = "<group>"; };
-		B24A1CEF223B500B00C3D8FD /* PersonalInfoTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PersonalInfoTableViewCell.h; sourceTree = "<group>"; };
-		B24A1CF0223B500B00C3D8FD /* AttanceListTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = AttanceListTableViewCell.xib; sourceTree = "<group>"; };
-		B24A1CF1223B500B00C3D8FD /* ManageList1TableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ManageList1TableViewCell.xib; sourceTree = "<group>"; };
-		B24A1CF2223B500B00C3D8FD /* ManageList1TableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ManageList1TableViewCell.m; sourceTree = "<group>"; };
-		B24A1CF3223B500B00C3D8FD /* AttanceListTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AttanceListTableViewCell.h; sourceTree = "<group>"; };
-		B24A1CF4223B500B00C3D8FD /* StaffListTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StaffListTableViewCell.m; sourceTree = "<group>"; };
-		B24A1CF5223B500B00C3D8FD /* StaffTimeListTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StaffTimeListTableViewCell.m; sourceTree = "<group>"; };
-		B24A1CF6223B500B00C3D8FD /* PersonalInfoTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PersonalInfoTableViewCell.m; sourceTree = "<group>"; };
-		B24A1CF7223B500B00C3D8FD /* PersonalInfoTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = PersonalInfoTableViewCell.xib; sourceTree = "<group>"; };
-		B24A1CF8223B500B00C3D8FD /* ManageList1TableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ManageList1TableViewCell.h; sourceTree = "<group>"; };
-		B24A1CF9223B500B00C3D8FD /* StaffListTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = StaffListTableViewCell.xib; sourceTree = "<group>"; };
-		B24A1CFA223B500B00C3D8FD /* StaffListTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StaffListTableViewCell.h; sourceTree = "<group>"; };
-		B24A1CFB223B500B00C3D8FD /* AttanceListTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AttanceListTableViewCell.m; sourceTree = "<group>"; };
-		B24A1CFC223B500B00C3D8FD /* StaffTimeListTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StaffTimeListTableViewCell.h; sourceTree = "<group>"; };
-		B24A1CFD223B500B00C3D8FD /* AttendanceRecordViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AttendanceRecordViewController.m; sourceTree = "<group>"; };
-		B24A1CFE223B500B00C3D8FD /* ManageIndexViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ManageIndexViewController.m; sourceTree = "<group>"; };
-		B24A1CFF223B500B00C3D8FD /* AttandanceDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AttandanceDetailViewController.m; sourceTree = "<group>"; };
-		B24A1D00223B500B00C3D8FD /* PersonalViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PersonalViewController.m; sourceTree = "<group>"; };
-		B24A1D01223B500B00C3D8FD /* AttandanceListViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AttandanceListViewController.h; sourceTree = "<group>"; };
 		B24A1D11223B502A00C3D8FD /* MeetTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MeetTableViewCell.h; sourceTree = "<group>"; };
 		B24A1D12223B502A00C3D8FD /* MeetTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MeetTableViewCell.m; sourceTree = "<group>"; };
 		B24A1D6C223B5E7C00C3D8FD /* UIScrollView+MJRefresh.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIScrollView+MJRefresh.m"; sourceTree = "<group>"; };
@@ -611,7 +586,6 @@
 		B24A1DFF223BB0FE00C3D8FD /* UserNotifications.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UserNotifications.framework; path = System/Library/Frameworks/UserNotifications.framework; sourceTree = SDKROOT; };
 		B24A1E01223BB10800C3D8FD /* libresolv.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libresolv.tbd; path = usr/lib/libresolv.tbd; sourceTree = SDKROOT; };
 		B24A1E03223BB13C00C3D8FD /* wspace.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = wspace.entitlements; sourceTree = "<group>"; };
-		B25241C82232090B001B7126 /* My.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = My.storyboard; path = ../../../../wspace2.18/wspace/My.storyboard; sourceTree = "<group>"; };
 		B26C6D112213B30F00287046 /* VisitTableViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = VisitTableViewCell.h; sourceTree = "<group>"; };
 		B26C6D122213B30F00287046 /* VisitTableViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = VisitTableViewCell.m; sourceTree = "<group>"; };
 		B26C6D142213BEDB00287046 /* NoRecordTableViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NoRecordTableViewCell.h; sourceTree = "<group>"; };
@@ -744,6 +718,32 @@
 		B2CD8DEA222FB10300630B7F /* LoginViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoginViewController.h; sourceTree = "<group>"; };
 		B2CD8DEB222FB10300630B7F /* ForgetPsdViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ForgetPsdViewController.h; sourceTree = "<group>"; };
 		B2CD8DEF222FB21C00630B7F /* Login.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Login.storyboard; sourceTree = "<group>"; };
+		B2DC9437224327AD008925B8 /* My.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = My.storyboard; sourceTree = "<group>"; };
+		B2DC943A224329F0008925B8 /* AttendanceRecordViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AttendanceRecordViewController.h; sourceTree = "<group>"; };
+		B2DC943B224329F0008925B8 /* AttandanceDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AttandanceDetailViewController.h; sourceTree = "<group>"; };
+		B2DC943C224329F0008925B8 /* ManageIndexViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ManageIndexViewController.h; sourceTree = "<group>"; };
+		B2DC943D224329F0008925B8 /* AttandanceListViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AttandanceListViewController.m; sourceTree = "<group>"; };
+		B2DC943E224329F0008925B8 /* PersonalViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PersonalViewController.h; sourceTree = "<group>"; };
+		B2DC9440224329F0008925B8 /* StaffTimeListTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = StaffTimeListTableViewCell.xib; sourceTree = "<group>"; };
+		B2DC9441224329F0008925B8 /* PersonalInfoTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PersonalInfoTableViewCell.h; sourceTree = "<group>"; };
+		B2DC9442224329F0008925B8 /* AttanceListTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = AttanceListTableViewCell.xib; sourceTree = "<group>"; };
+		B2DC9443224329F0008925B8 /* ManageList1TableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ManageList1TableViewCell.xib; sourceTree = "<group>"; };
+		B2DC9444224329F0008925B8 /* ManageList1TableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ManageList1TableViewCell.m; sourceTree = "<group>"; };
+		B2DC9445224329F0008925B8 /* AttanceListTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AttanceListTableViewCell.h; sourceTree = "<group>"; };
+		B2DC9446224329F0008925B8 /* StaffListTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StaffListTableViewCell.m; sourceTree = "<group>"; };
+		B2DC9447224329F0008925B8 /* StaffTimeListTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StaffTimeListTableViewCell.m; sourceTree = "<group>"; };
+		B2DC9448224329F0008925B8 /* PersonalInfoTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PersonalInfoTableViewCell.m; sourceTree = "<group>"; };
+		B2DC9449224329F0008925B8 /* PersonalInfoTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = PersonalInfoTableViewCell.xib; sourceTree = "<group>"; };
+		B2DC944A224329F0008925B8 /* ManageList1TableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ManageList1TableViewCell.h; sourceTree = "<group>"; };
+		B2DC944B224329F0008925B8 /* StaffListTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = StaffListTableViewCell.xib; sourceTree = "<group>"; };
+		B2DC944C224329F0008925B8 /* StaffListTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StaffListTableViewCell.h; sourceTree = "<group>"; };
+		B2DC944D224329F0008925B8 /* AttanceListTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AttanceListTableViewCell.m; sourceTree = "<group>"; };
+		B2DC944E224329F0008925B8 /* StaffTimeListTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StaffTimeListTableViewCell.h; sourceTree = "<group>"; };
+		B2DC944F224329F0008925B8 /* AttendanceRecordViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AttendanceRecordViewController.m; sourceTree = "<group>"; };
+		B2DC9450224329F0008925B8 /* ManageIndexViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ManageIndexViewController.m; sourceTree = "<group>"; };
+		B2DC9451224329F0008925B8 /* AttandanceDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AttandanceDetailViewController.m; sourceTree = "<group>"; };
+		B2DC9452224329F0008925B8 /* PersonalViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PersonalViewController.m; sourceTree = "<group>"; };
+		B2DC9453224329F0008925B8 /* AttandanceListViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AttandanceListViewController.h; sourceTree = "<group>"; };
 		B2E196D42230BBB3008950A6 /* AttenceView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AttenceView.h; sourceTree = "<group>"; };
 		B2E196D52230BBB3008950A6 /* AddStaffView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AddStaffView.m; sourceTree = "<group>"; };
 		B2E196D62230BBB3008950A6 /* AddStaffView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = AddStaffView.xib; sourceTree = "<group>"; };
@@ -1216,10 +1216,10 @@
 			children = (
 				B24A1E03223BB13C00C3D8FD /* wspace.entitlements */,
 				B2CD8DE1222FB0E700630B7F /* Tabbar */,
-				B24A1CE7223B500B00C3D8FD /* Mine */,
 				B2CD8DE5222FB10300630B7F /* Login */,
 				B227A9742212AA420066EA22 /* Index */,
 				B2080AFC22150E73006C899B /* Resources */,
+				B2DC9439224329F0008925B8 /* Mine */,
 				B26C73D2221411BA00287046 /* Common */,
 				B227A93F2212A3940066EA22 /* AppDelegate.h */,
 				B227A9402212A3940066EA22 /* AppDelegate.m */,
@@ -1233,7 +1233,7 @@
 				B227A94E2212A3A00066EA22 /* main.m */,
 				B227A9712212A7060066EA22 /* Index.storyboard */,
 				B227A9782212AC100066EA22 /* Resources.storyboard */,
-				B25241C82232090B001B7126 /* My.storyboard */,
+				B2DC9437224327AD008925B8 /* My.storyboard */,
 			);
 			path = wspace;
 			sourceTree = "<group>";
@@ -1466,46 +1466,6 @@
 				B230DA78221D3C170082D792 /* DrawCyclesView.m */,
 			);
 			path = DrawCyclesView;
-			sourceTree = "<group>";
-		};
-		B24A1CE7223B500B00C3D8FD /* Mine */ = {
-			isa = PBXGroup;
-			children = (
-				B24A1CE8223B500B00C3D8FD /* AttendanceRecordViewController.h */,
-				B24A1CE9223B500B00C3D8FD /* AttandanceDetailViewController.h */,
-				B24A1CEA223B500B00C3D8FD /* ManageIndexViewController.h */,
-				B24A1CEB223B500B00C3D8FD /* AttandanceListViewController.m */,
-				B24A1CEC223B500B00C3D8FD /* PersonalViewController.h */,
-				B24A1CED223B500B00C3D8FD /* cell */,
-				B24A1CFD223B500B00C3D8FD /* AttendanceRecordViewController.m */,
-				B24A1CFE223B500B00C3D8FD /* ManageIndexViewController.m */,
-				B24A1CFF223B500B00C3D8FD /* AttandanceDetailViewController.m */,
-				B24A1D00223B500B00C3D8FD /* PersonalViewController.m */,
-				B24A1D01223B500B00C3D8FD /* AttandanceListViewController.h */,
-			);
-			path = Mine;
-			sourceTree = "<group>";
-		};
-		B24A1CED223B500B00C3D8FD /* cell */ = {
-			isa = PBXGroup;
-			children = (
-				B24A1CEE223B500B00C3D8FD /* StaffTimeListTableViewCell.xib */,
-				B24A1CEF223B500B00C3D8FD /* PersonalInfoTableViewCell.h */,
-				B24A1CF0223B500B00C3D8FD /* AttanceListTableViewCell.xib */,
-				B24A1CF1223B500B00C3D8FD /* ManageList1TableViewCell.xib */,
-				B24A1CF2223B500B00C3D8FD /* ManageList1TableViewCell.m */,
-				B24A1CF3223B500B00C3D8FD /* AttanceListTableViewCell.h */,
-				B24A1CF4223B500B00C3D8FD /* StaffListTableViewCell.m */,
-				B24A1CF5223B500B00C3D8FD /* StaffTimeListTableViewCell.m */,
-				B24A1CF6223B500B00C3D8FD /* PersonalInfoTableViewCell.m */,
-				B24A1CF7223B500B00C3D8FD /* PersonalInfoTableViewCell.xib */,
-				B24A1CF8223B500B00C3D8FD /* ManageList1TableViewCell.h */,
-				B24A1CF9223B500B00C3D8FD /* StaffListTableViewCell.xib */,
-				B24A1CFA223B500B00C3D8FD /* StaffListTableViewCell.h */,
-				B24A1CFB223B500B00C3D8FD /* AttanceListTableViewCell.m */,
-				B24A1CFC223B500B00C3D8FD /* StaffTimeListTableViewCell.h */,
-			);
-			path = cell;
 			sourceTree = "<group>";
 		};
 		B24A1D6B223B5E7C00C3D8FD /* MJRefresh */ = {
@@ -1914,6 +1874,46 @@
 			path = Login;
 			sourceTree = "<group>";
 		};
+		B2DC9439224329F0008925B8 /* Mine */ = {
+			isa = PBXGroup;
+			children = (
+				B2DC943A224329F0008925B8 /* AttendanceRecordViewController.h */,
+				B2DC943B224329F0008925B8 /* AttandanceDetailViewController.h */,
+				B2DC943C224329F0008925B8 /* ManageIndexViewController.h */,
+				B2DC943D224329F0008925B8 /* AttandanceListViewController.m */,
+				B2DC943E224329F0008925B8 /* PersonalViewController.h */,
+				B2DC943F224329F0008925B8 /* cell */,
+				B2DC944F224329F0008925B8 /* AttendanceRecordViewController.m */,
+				B2DC9450224329F0008925B8 /* ManageIndexViewController.m */,
+				B2DC9451224329F0008925B8 /* AttandanceDetailViewController.m */,
+				B2DC9452224329F0008925B8 /* PersonalViewController.m */,
+				B2DC9453224329F0008925B8 /* AttandanceListViewController.h */,
+			);
+			path = Mine;
+			sourceTree = "<group>";
+		};
+		B2DC943F224329F0008925B8 /* cell */ = {
+			isa = PBXGroup;
+			children = (
+				B2DC9440224329F0008925B8 /* StaffTimeListTableViewCell.xib */,
+				B2DC9441224329F0008925B8 /* PersonalInfoTableViewCell.h */,
+				B2DC9442224329F0008925B8 /* AttanceListTableViewCell.xib */,
+				B2DC9443224329F0008925B8 /* ManageList1TableViewCell.xib */,
+				B2DC9444224329F0008925B8 /* ManageList1TableViewCell.m */,
+				B2DC9445224329F0008925B8 /* AttanceListTableViewCell.h */,
+				B2DC9446224329F0008925B8 /* StaffListTableViewCell.m */,
+				B2DC9447224329F0008925B8 /* StaffTimeListTableViewCell.m */,
+				B2DC9448224329F0008925B8 /* PersonalInfoTableViewCell.m */,
+				B2DC9449224329F0008925B8 /* PersonalInfoTableViewCell.xib */,
+				B2DC944A224329F0008925B8 /* ManageList1TableViewCell.h */,
+				B2DC944B224329F0008925B8 /* StaffListTableViewCell.xib */,
+				B2DC944C224329F0008925B8 /* StaffListTableViewCell.h */,
+				B2DC944D224329F0008925B8 /* AttanceListTableViewCell.m */,
+				B2DC944E224329F0008925B8 /* StaffTimeListTableViewCell.h */,
+			);
+			path = cell;
+			sourceTree = "<group>";
+		};
 		B2E196D32230BBB3008950A6 /* customView */ = {
 			isa = PBXGroup;
 			children = (
@@ -2036,31 +2036,31 @@
 			buildActionMask = 2147483647;
 			files = (
 				B227A94C2212A3A00066EA22 /* LaunchScreen.storyboard in Resources */,
+				B2DC9438224327AE008925B8 /* My.storyboard in Resources */,
+				B2DC945D224329F1008925B8 /* StaffListTableViewCell.xib in Resources */,
 				B2E196DC2230BBB3008950A6 /* AttenceView.xib in Resources */,
 				B2E196DB2230BBB3008950A6 /* AddStaffView.xib in Resources */,
-				B24A1D03223B500B00C3D8FD /* StaffTimeListTableViewCell.xib in Resources */,
 				B200B639223F497200BA6CD3 /* TwitterKitResources.bundle in Resources */,
 				B2284454222649600029DB4E /* IQKeyboardManager.bundle in Resources */,
 				B26C76B62214144E00287046 /* MWPhotoBrowser.bundle in Resources */,
 				B200B64B223F497200BA6CD3 /* VKSdkResources.bundle in Resources */,
-				B24A1D05223B500B00C3D8FD /* ManageList1TableViewCell.xib in Resources */,
 				B24A1DCA223B5E7D00C3D8FD /* MJRefresh.bundle in Resources */,
 				B227A9792212AC100066EA22 /* Resources.storyboard in Resources */,
 				B200B64F223F497200BA6CD3 /* WeiboSDK.bundle in Resources */,
-				B25241C92232090B001B7126 /* My.storyboard in Resources */,
 				B227A9492212A3A00066EA22 /* Assets.xcassets in Resources */,
 				B200B638223F497200BA6CD3 /* TwitterShareExtensionUIResources.bundle in Resources */,
+				B2DC945C224329F1008925B8 /* PersonalInfoTableViewCell.xib in Resources */,
 				B200B654223F497200BA6CD3 /* UMCommonLog.bundle in Resources */,
 				B2284466222679020029DB4E /* AllOrdersTableViewCell.xib in Resources */,
-				B24A1D0B223B500B00C3D8FD /* StaffListTableViewCell.xib in Resources */,
 				B2CD8DF0222FB21D00630B7F /* Login.storyboard in Resources */,
 				B200B640223F497200BA6CD3 /* README.txt in Resources */,
-				B24A1D0A223B500B00C3D8FD /* PersonalInfoTableViewCell.xib in Resources */,
+				B2DC9457224329F1008925B8 /* ManageList1TableViewCell.xib in Resources */,
+				B2DC9455224329F1008925B8 /* StaffTimeListTableViewCell.xib in Resources */,
 				B227A9472212A3940066EA22 /* Main.storyboard in Resources */,
 				B227A9722212A7060066EA22 /* Index.storyboard in Resources */,
+				B2DC9456224329F1008925B8 /* AttanceListTableViewCell.xib in Resources */,
 				B200B633223F497200BA6CD3 /* UMSocialSDKResources.bundle in Resources */,
 				B23245AB2227E2D20063F821 /* IndexCoffeeTableViewCell.xib in Resources */,
-				B24A1D04223B500B00C3D8FD /* AttanceListTableViewCell.xib in Resources */,
 				B20FB218222520AF002B2A7A /* Info.plist in Resources */,
 				B26C76D62214144F00287046 /* EaseUIResource.bundle in Resources */,
 				B26C76F6221416A100287046 /* MBProgressHUD+JDragon.bundle in Resources */,
@@ -2110,7 +2110,6 @@
 				B26C76A42214144E00287046 /* PSTCollectionViewLayout.m in Sources */,
 				B26C769D2214144E00287046 /* PSTCollectionViewData.m in Sources */,
 				B20FB213222520AF002B2A7A /* NSArray+MASAdditions.m in Sources */,
-				B24A1D0C223B500B00C3D8FD /* AttanceListTableViewCell.m in Sources */,
 				B26C76992214144E00287046 /* PSTCollectionViewController.m in Sources */,
 				B2284459222649600029DB4E /* IQUIView+Hierarchy.m in Sources */,
 				B26C76952214144E00287046 /* MWTapDetectingView.m in Sources */,
@@ -2118,17 +2117,17 @@
 				B26C76922214144E00287046 /* UIImage+MWPhotoBrowser.m in Sources */,
 				B26C76AD2214144E00287046 /* UIImage+MultiFormat.m in Sources */,
 				B24A1DD7223B5E7D00C3D8FD /* MJRefreshFooter.m in Sources */,
+				B2DC945B224329F1008925B8 /* PersonalInfoTableViewCell.m in Sources */,
 				B26C76A92214144E00287046 /* SDWebImageDecoder.m in Sources */,
 				B2284450222649600029DB4E /* IQTitleBarButtonItem.m in Sources */,
 				B24A1DCE223B5E7D00C3D8FD /* MJRefreshBackGifFooter.m in Sources */,
 				B26C769A2214144E00287046 /* PSTCollectionViewFlowLayout.m in Sources */,
 				B2284483222696880029DB4E /* LGAlertViewWindow.m in Sources */,
 				B26C76482214144E00287046 /* HooDatePicker.m in Sources */,
-				B24A1D0D223B500B00C3D8FD /* AttendanceRecordViewController.m in Sources */,
 				B26C76AC2214144E00287046 /* UIImage+GIF.m in Sources */,
 				B228448B222696880029DB4E /* LGAlertViewButton.m in Sources */,
+				B2DC9460224329F1008925B8 /* ManageIndexViewController.m in Sources */,
 				B20FB217222520AF002B2A7A /* MASViewAttribute.m in Sources */,
-				B24A1D10223B500B00C3D8FD /* PersonalViewController.m in Sources */,
 				B228442222263F120029DB4E /* UIView+TYAlertView.m in Sources */,
 				B228442A22263F120029DB4E /* TYAlertController.m in Sources */,
 				B26C76F12214166F00287046 /* AFHTTPSessionManager+Synchronous.m in Sources */,
@@ -2142,8 +2141,6 @@
 				B24A1DD4223B5E7D00C3D8FD /* MJRefreshNormalHeader.m in Sources */,
 				B26C76912214144E00287046 /* MWZoomingScrollView.m in Sources */,
 				B227A9442212A3940066EA22 /* ViewController.m in Sources */,
-				B24A1D02223B500B00C3D8FD /* AttandanceListViewController.m in Sources */,
-				B24A1D08223B500B00C3D8FD /* StaffTimeListTableViewCell.m in Sources */,
 				B20FB1EF22250D47002B2A7A /* UIView+DCAnimationKit.m in Sources */,
 				B228442922263F120029DB4E /* TYBaseAnimation.m in Sources */,
 				B26C76A22214144E00287046 /* PSTCollectionView.m in Sources */,
@@ -2168,6 +2165,7 @@
 				B230484D221BAD370017E62D /* ScheduledMeetingViewController.m in Sources */,
 				B24A1DD6223B5E7D00C3D8FD /* MJRefreshGifHeader.m in Sources */,
 				B26C6D192213BF0C00287046 /* ScheduledMeetingTableViewCell.m in Sources */,
+				B2DC945F224329F1008925B8 /* AttendanceRecordViewController.m in Sources */,
 				B24A1DCF223B5E7D00C3D8FD /* MJRefreshBackStateFooter.m in Sources */,
 				B26C76EF2214166F00287046 /* AFNetworkReachabilityManager.m in Sources */,
 				B26C76B52214144E00287046 /* UIButton+WebCache.m in Sources */,
@@ -2176,11 +2174,11 @@
 				B26C76ED2214166F00287046 /* AFURLSessionManager.m in Sources */,
 				B26C76B32214144E00287046 /* UIImageView+WebCache.m in Sources */,
 				B227A9412212A3940066EA22 /* AppDelegate.m in Sources */,
-				B24A1D06223B500B00C3D8FD /* ManageList1TableViewCell.m in Sources */,
 				B228442622263F120029DB4E /* UIView+TYAutoLayout.m in Sources */,
 				B227A9772212AA7B0066EA22 /* IndexViewController.m in Sources */,
 				B24A1D13223B502B00C3D8FD /* MeetTableViewCell.m in Sources */,
 				B26C76AF2214144E00287046 /* SDWebImagePrefetcher.m in Sources */,
+				B2DC9459224329F1008925B8 /* StaffListTableViewCell.m in Sources */,
 				B20B0C9A221654F800F5E7B2 /* UIFont+fixFont.m in Sources */,
 				B2CD8DEE222FB10300630B7F /* LoginNaviViewController.m in Sources */,
 				B26C76B42214144E00287046 /* UIView+WebCacheOperation.m in Sources */,
@@ -2189,17 +2187,18 @@
 				B2244D722241D65800748D48 /* PayTableViewController.m in Sources */,
 				B26C76AA2214144E00287046 /* UIImageView+HighlightedWebCache.m in Sources */,
 				B20FB214222520AF002B2A7A /* View+MASAdditions.m in Sources */,
-				B24A1D09223B500B00C3D8FD /* PersonalInfoTableViewCell.m in Sources */,
 				B20FB211222520AF002B2A7A /* MASConstraintMaker.m in Sources */,
 				B2284461222678DF0029DB4E /* AllOrdersTableViewCell.m in Sources */,
-				B24A1D0F223B500B00C3D8FD /* AttandanceDetailViewController.m in Sources */,
 				B26C76A72214144E00287046 /* MKAnnotationView+WebCache.m in Sources */,
 				B2284489222696880029DB4E /* LGAlertViewButtonProperties.m in Sources */,
 				B228442822263F120029DB4E /* TYShowAlertView.m in Sources */,
+				B2DC9461224329F1008925B8 /* AttandanceDetailViewController.m in Sources */,
+				B2DC945E224329F1008925B8 /* AttanceListTableViewCell.m in Sources */,
 				B26C76EE2214166F00287046 /* AFURLRequestSerialization.m in Sources */,
 				B26C76A82214144E00287046 /* SDWebImageManager.m in Sources */,
 				B2284453222649600029DB4E /* IQPreviousNextView.m in Sources */,
 				B26C76B02214144E00287046 /* SDImageCache.m in Sources */,
+				B2DC945A224329F1008925B8 /* StaffTimeListTableViewCell.m in Sources */,
 				B26C76932214144E00287046 /* MWTapDetectingImageView.m in Sources */,
 				B2E196DD2230BBB3008950A6 /* AttenceView.m in Sources */,
 				B2284485222696880029DB4E /* LGAlertViewHelper.m in Sources */,
@@ -2215,13 +2214,14 @@
 				B26C76B22214144E00287046 /* NSData+ImageContentType.m in Sources */,
 				B227AC8A2212E04D0066EA22 /* NoVisitorTableViewCell.m in Sources */,
 				B26C76AB2214144E00287046 /* SDWebImageDownloader.m in Sources */,
+				B2DC9454224329F1008925B8 /* AttandanceListViewController.m in Sources */,
 				B24A1DD0223B5E7D00C3D8FD /* MJRefreshBackNormalFooter.m in Sources */,
 				B26C76EC2214166F00287046 /* AFHTTPSessionManager.m in Sources */,
+				B2DC9458224329F1008925B8 /* ManageList1TableViewCell.m in Sources */,
 				B24A1DD9223B5E7D00C3D8FD /* MJRefreshBackFooter.m in Sources */,
 				B24A1DCC223B5E7D00C3D8FD /* NSBundle+MJRefresh.m in Sources */,
 				B24A1DD2223B5E7D00C3D8FD /* MJRefreshAutoGifFooter.m in Sources */,
 				B26C76A52214144E00287046 /* PSTGridLayoutItem.m in Sources */,
-				B24A1D07223B500B00C3D8FD /* StaffListTableViewCell.m in Sources */,
 				B26C76A32214144E00287046 /* PSTGridLayoutRow.m in Sources */,
 				B24A1DC9223B5E7D00C3D8FD /* MJRefreshConst.m in Sources */,
 				B228448A222696880029DB4E /* LGAlertViewController.m in Sources */,
@@ -2235,12 +2235,12 @@
 				B20FB215222520AF002B2A7A /* MASConstraint.m in Sources */,
 				B2CD8DEC222FB10300630B7F /* ForgetPsdViewController.m in Sources */,
 				B26C769C2214144E00287046 /* PSTGridLayoutInfo.m in Sources */,
-				B24A1D0E223B500B00C3D8FD /* ManageIndexViewController.m in Sources */,
 				B20FB20F222520AF002B2A7A /* ViewController+MASAdditions.m in Sources */,
 				B228444E222649600029DB4E /* IQTextView.m in Sources */,
 				B26C76F02214166F00287046 /* AFSecurityPolicy.m in Sources */,
 				B26C769B2214144E00287046 /* PSTCollectionViewCell.m in Sources */,
 				B23245A6222774700063F821 /* CoffeeTableViewCell.m in Sources */,
+				B2DC9462224329F1008925B8 /* PersonalViewController.m in Sources */,
 				B24A1DCD223B5E7D00C3D8FD /* UIView+MJExtension.m in Sources */,
 				B2284487222696880029DB4E /* LGAlertViewWindowsObserver.m in Sources */,
 				B20FB21B22254EB9002B2A7A /* RequestVisitViewController.m in Sources */,
